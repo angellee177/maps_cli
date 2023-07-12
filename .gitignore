@@ -1,0 +1,12 @@
+# Dependency Directories
+node_modules
+
+# package-lock.json
+package-lock.json
+
+# Optional npm cache directory
+.npm
+
+# Typescript cache
+*.tsbuildinfo
+
