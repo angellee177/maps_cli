@@ -1,0 +1,24 @@
+{
+  "name": "maps_cli",
+  "version": "1.0.0",
+  "description": "simple CLI to convert address to Latitude and Longitude",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angellee177/maps_cli.git"
+  },
+  "keywords": [
+    "csv",
+    "google-maps",
+    "address"
+  ],
+  "author": "angellee177",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angellee177/maps_cli/issues"
+  },
+  "homepage": "https://github.com/angellee177/maps_cli#readme"
+}
